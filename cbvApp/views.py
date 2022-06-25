@@ -75,3 +75,6 @@ class StudentDetails(APIView):
         return Response(status=status.HTTP_204_NO_CONTENT)
 
 """
+def hello_guys():
+    print("testing the git branching methods")
+    print("get data")
